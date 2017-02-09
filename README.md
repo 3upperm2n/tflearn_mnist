@@ -7,8 +7,7 @@ tflearn on mnist datasets
 
 ## Author
 Leiming Yu
+[[homepage](http://www1.coe.neu.edu/~ylm/)]
+[[github](https://github.com/3upperm2n/)]
 
 ylm@ece.neu.edu
-
-* [homepage](http://www1.coe.neu.edu/~ylm/)
-* [github](https://github.com/3upperm2n/)
