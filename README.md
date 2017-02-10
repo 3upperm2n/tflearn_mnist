@@ -2,7 +2,7 @@
 tflearn on mnist datasets
 
 ## Supported networks:
-* LeNet
+* LeNet ([ref](http://eblearn.sourceforge.net/beginner_tutorial2_train.html))
   * conv (5x5), l2_pooling (2x2)
   * conv (6x6), l2_pooling (2x2)
   * conv (6x6), l2_pooling (2x2)
