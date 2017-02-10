@@ -9,7 +9,7 @@ tflearn on mnist datasets
   * fully-connected, 84
   * full-connected, 10, softmax
   
-* Default
+* Default  (Accuracy : 0.9921)
  * full-connected, 20 , ReLU
  * full-connected, 10, softmax
 
