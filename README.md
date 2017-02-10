@@ -2,7 +2,7 @@
 tflearn on mnist datasets
 
 ## Supported networks:
-* LeNet ([ref](http://eblearn.sourceforge.net/beginner_tutorial2_train.html))
+* LeNet (Accuracy: 0.997) ([ref](http://eblearn.sourceforge.net/beginner_tutorial2_train.html))
   * conv (5x5, 6 feature maps), max_pooling (2x2) [original l2 pooling](http://neuralnetworksanddeeplearning.com/chap6.html)
   * conv (6x6, 16 feature maps), max_pooling (2x2)
   * conv (6x6, 120 feature maps)
